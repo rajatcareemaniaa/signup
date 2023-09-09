@@ -129,7 +129,7 @@ const Sing = () => {
 
               <div>
                 <p className="text9_login_right">
-                  Forgot password?
+                  Forgot password?    
                   <span className="text10_login_right">Reset password</span>{" "}
                 </p>
               </div>
